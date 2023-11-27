@@ -1,10 +1,10 @@
-import "./Proyectos.scss"
+import "./Proyect.scss"
 import logo from "../../assets/logoMarian.png"
 import mon from "../../assets/mon.png"
 import imgFondo from "../../assets/3.jpg"
 import { NavLink } from "react-router-dom"
 
-const Proyectos = () => {
+const Proyect = () => {
     return (
         <div>
              <img src={imgFondo} className="imgFondo" alt="Paisaje" />
@@ -16,4 +16,4 @@ const Proyectos = () => {
     )
 }
 
-export default Proyectos
+export default Proyect
