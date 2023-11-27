@@ -1,0 +1,142 @@
+.bgc {
+    background-color: rgb(185, 185, 185);
+}
+
+.titleCv {
+    text-align: center;
+    font-family: 'Space Grotesk', sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow: none;
+    position: relative;
+    padding-top: 6rem;
+    margin-bottom: 2rem;
+}
+
+.datosFlex {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: rgb(0, 0, 0);
+}
+
+.datos1,
+.datos2,
+.datos3 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.titleExp {
+    text-align: center;
+    font-family: 'Space Grotesk', sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow: none;
+    position: relative;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.griDatos {
+    display: grid;
+    grid-template-columns: 1.5fr 2fr;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: rgb(0, 0, 0);
+    font-family: 'Space Grotesk', sans-serif;
+
+    p{
+        margin-bottom: 1rem;
+    }
+}
+
+a{
+    color: black;
+}
+
+
+.titleEst {
+    text-align: center;
+    font-family: 'Space Grotesk', sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow: none;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+   
+}
+
+
+    a {
+        text-decoration: none;
+    }
+
+.sep{
+    width: 95%;
+    height: .3rem;
+    border-radius: 1rem;
+    margin-left: 2rem;
+    background-color: black;
+}
+
+.ultimoDiv{
+    padding-bottom: 5rem;
+}
+
+.flexImgCv{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   gap: 2rem;
+   font-family: 'Space Grotesk', sans-serif;
+}
+
+.imgCv{
+    width: 10rem;
+    border-radius: 50rem;
+}
+
+.titlehab{
+    text-align: center;
+    font-family: 'Space Grotesk', sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow: none;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.habilidades{
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    text-align: center;
+}
+
+.titlehob{
+    text-align: center;
+    font-family: 'Space Grotesk', sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow: none;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+button{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 1rem;
+    background-color: white;
+    padding: .2rem;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.descarga{
+    color: rgb(255, 255, 255);
+    
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: rgb(255, 0, 0);
+    padding: 1rem;
+}

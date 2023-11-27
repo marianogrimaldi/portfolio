@@ -1,0 +1,61 @@
+li{
+    color: rgb(0, 0, 0);
+    list-style-type: none;
+    font-family: 'Space Grotesk', sans-serif;
+    text-shadow: 1px 1px 1px white;
+    transition: .5s;
+   
+    
+}
+ li:hover{
+        scale: 1.2;
+    }
+.flexHeader{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: white;
+    
+   
+}
+
+.flexNavBar{
+    display: flex;
+    gap: 2rem
+}
+
+.flexTitle{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    position: absolute;
+    z-index: 2;
+
+    p{
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 1.3rem;
+        text-shadow: .5px .5px .5px white;
+    }
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 2rem;
+    text-shadow: 1px 1px 1px white;
+    
+}
+
+.trapecio-top {
+    margin-top: -4rem;
+    position: absolute;
+    width: 350px;
+    height: 0px;
+    border-right: 60px solid transparent;
+    z-index: 1;
+    border-top: 100px solid #ffffff;
+    
+}

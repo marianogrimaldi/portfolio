@@ -1,0 +1,43 @@
+.flexPro{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 12rem;
+    padding-bottom: 20rem;
+    align-items: center;
+    position: relative;
+  
+
+}
+
+
+
+.btmPro{
+
+    font-size: 5rem;
+    box-shadow: 0 60px 60px;
+    object-fit: cover;
+    height: 10rem;
+      transition: .5s;
+    background-image: linear-gradient(white, blue
+    );
+     
+}
+.logoPro{
+    width: 10rem;
+    filter: drop-shadow(5px 5px 5px rgb(0, 0, 0));
+   
+}
+.btmPro:hover{ 
+    transform: 
+        perspective(250px)
+        rotateX(10deg);
+  
+}
+
+.mon{
+    width: 10rem;
+    filter: drop-shadow(5px 5px 5px rgb(0, 0, 0));
+}
+
+
