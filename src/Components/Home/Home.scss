@@ -1,6 +1,8 @@
 .flexImgPrin{
     display: flex;
     justify-content: center;
+    align-items: center;
+    gap: 4rem;
     padding-top: 3rem;
     margin-bottom: 2rem;
     position: relative;
@@ -8,6 +10,13 @@
         width: 20rem;
         
         
+    }
+    p{
+      font-family: 'Space Grotesk', sans-serif;
+      color: white;
+      text-align: center;
+      font-size: 1.5rem;
+      font-style: italic;
     }
 }
 
@@ -21,57 +30,18 @@
     0% {
       opacity: 0;
     }
+
     50% {
         opacity: 0; 
     }
-
-    
+ 
+ 
     100% {
       opacity: 1;
     }
   }
 
-.imgGal{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    position: relative;
-    gap: 1rem;
-    width: 20rem;
-    animation-name: animacionGal;
-    animation-duration: 4s;
-   z-index: 2;
-    
-    
-    img{
-        width: 6rem;
-        height: 6rem;
-         padding-left: 5rem;
-        flex-grow: 1;
-        object-fit: cover;
-        transition: .5s ease; 
-        cursor:pointer;
-        
-    }
 
-    img:hover{
-        scale: 1.5;
-    }
-}
-
-@keyframes animacionGal {
-    0% {
-      opacity: 0;
-    }
-    50% {
-        opacity: 0; 
-    }
-
-    
-    100% {
-      opacity: 1;
-    }
-  }
 
 .imgFondo{
     position: absolute;

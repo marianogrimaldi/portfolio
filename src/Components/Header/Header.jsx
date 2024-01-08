@@ -11,13 +11,11 @@ const Header = () => {
                 
             <div className="flexHeader">
                 <div></div>
-                <ul className="flexNavBar">
-                <NavLink to="/"><li>INICIO</li></NavLink>
-                <NavLink to="/bio"><li>BIO</li></NavLink>
-                <NavLink to="/cv"><li>CV</li></NavLink>
-                <NavLink to="/proyectos"><li>PROYECTOS</li></NavLink>
-                    
-                   
+                <ul className="navFlex">
+                    <NavLink to="/"><li>INICIO</li></NavLink>
+                    <NavLink to="/bio"><li>BIO</li></NavLink>
+                    <NavLink to="/cv"><li>CV</li></NavLink>
+                    <NavLink to="/proyectos"><li>PROYECTOS</li></NavLink>
                     <li>CONTACTO</li>
                 </ul> 
             </div>

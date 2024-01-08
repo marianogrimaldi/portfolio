@@ -4,7 +4,7 @@ import imgFondo from "../../assets/3.jpg"
 
 const SEIS = () => {
     return (
-        <div>
+        <div className="animationgral">
             <img src={imgFondo} className="imgFondo" alt="" />
             <p className="textSeis">6000 x 10 es un proyecto ambicioso que consiste en escalar las 10 montañas mas altas de Argentina. Todas ellas se encuentan en las provincias de Catamarca, Mendoza, Salta y La Rioja.</p>
             <ol className="seisMount"> 

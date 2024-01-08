@@ -8,7 +8,8 @@ import mariano from "../../assets/imgPrincipal.jpg"
 
 const Cv = () => {
     return (
-        <div className="bgc">
+        <div className="animationgral">
+        <div className="bgc" > 
 
             <h1 className="titleCv">MARIANO GRIMALDI </h1>
 
@@ -243,7 +244,7 @@ const Cv = () => {
             <div className="ultimoDiv"></div>
            
         </div>
-
+</div>
     )
 }
 

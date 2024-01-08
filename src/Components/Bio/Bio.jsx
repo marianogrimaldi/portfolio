@@ -4,7 +4,7 @@ import salinas from "../../assets/salinas.jpg"
 
 const Bio = () => {
     return (
-        <div>
+        <div className="animationgral">
             <img src={imgFondo} className="imgFondo" alt="" />
             <div className="bio">
               
