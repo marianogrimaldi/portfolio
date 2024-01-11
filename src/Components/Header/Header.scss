@@ -24,6 +24,7 @@ li{
 @media screen and (max-width: 479px){
     .flexHeader{
         flex-direction: column;
+        padding: 1.5rem;
     }
 }
 
@@ -56,12 +57,28 @@ li{
     }
 }
 
+@media screen and (max-width: 479px){
+    .flexTitle{
+        p{
+            text-align: center;
+            color: white;
+        }
+    }
+}
+
 h1{
     color: rgb(0, 0, 0);
     font-family: 'Space Grotesk', sans-serif;
     font-size: 2rem;
     text-shadow: 1px 1px 1px white;
     
+}
+
+@media screen and (max-width: 479px){
+    h1{
+        color: white;
+        margin-top: 2rem;
+    }
 }
 
 .trapecio-top {
