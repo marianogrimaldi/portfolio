@@ -44,6 +44,7 @@ li{
 
 .flexTitle{
     display: flex;
+    justify-content: center;
     flex-direction: column;
     margin-top: 1rem;
     margin-left: 2rem;
@@ -59,7 +60,7 @@ li{
 
 @media screen and (max-width: 479px){
     .flexTitle{
-        justify-content: center;
+        
         p{
             text-align: center;
             color: white;
