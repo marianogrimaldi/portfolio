@@ -10,3 +10,15 @@
 .logottt{
     width: 6rem;
 }
+
+@media screen and (max-width: 479px){
+    .titleSitio{
+        font-size: 2rem;
+        margin: 2rem;
+        margin-top: 10rem;
+        margin-bottom: 10rem
+    };
+    .logottt{
+        width: 2rem;
+    }
+}

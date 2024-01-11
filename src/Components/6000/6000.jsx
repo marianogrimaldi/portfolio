@@ -1,14 +1,17 @@
 import "./6000.scss"
 import imgFondo from "../../assets/3.jpg"
+import imgMobile from "../../assets/imgMobile.jpg"
 import { useTranslation } from "react-i18next"
-
+import Menu from "../Header/Menu"
 const SEIS = () => {
 
     const { t } = useTranslation()
 
     return (
         <div className="animationgral">
+            <Menu/>
             <img src={imgFondo} className="imgFondo" alt="" />
+            <img src={imgMobile} className="imgMobile" alt="" />
             <p className="textSeis">{t("Seis.frase1")}</p>
             <ol className="seisMount"> 
                 <a href="https://es.wikipedia.org/wiki/Aconcagua" target="blank_"><li>1 - 6962 Aconcagua</li></a>
