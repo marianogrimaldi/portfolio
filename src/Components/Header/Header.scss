@@ -51,6 +51,13 @@ li{
     position: absolute;
     z-index: 2;
     padding: 0;
+    h1{
+    
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 2rem;
+    text-shadow: 1px 1px 1px white;
+    
+}
     p{
         font-family: 'Space Grotesk', sans-serif;
         font-size: 1.3rem;
@@ -60,21 +67,16 @@ li{
 
 @media screen and (max-width: 479px){
     .flexTitle{
-        
+        margin-left: 0;
         p{
-            text-align: center;
+           
             color: white;
+            
         }
     }
 }
 
-h1{
-    color: rgb(0, 0, 0);
-    font-family: 'Space Grotesk', sans-serif;
-    font-size: 2rem;
-    text-shadow: 1px 1px 1px white;
-    
-}
+
 
 @media screen and (max-width: 479px){
     h1{
@@ -144,10 +146,12 @@ h1{
     }
   
     .nav__img{
-        width: 3rem;
+        width: 2.5rem;
         position: absolute;
         z-index: 2;
-        margin-top: -1rem;
+        margin-top: -3rem;
+        margin-left: 10rem;
+        
     }
     .ulFlex{
         position: fixed;
