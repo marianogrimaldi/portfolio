@@ -239,7 +239,7 @@ const Cv = () => {
                 <h2 className="titlehob">HOBBIES</h2> 
                 <h3 className="habilidades">{t("CV.frase8")}</h3>    
             </div>
-            <div>
+            <div className="btnDescarga">
                <a download="CV Mariano Grimaldi" className="descarga" href="CV.PNG">DESCARGAR CV</a>  
                <a download="CV Mariano Grimaldi" className="descarga" href="CVI.PNG">DOWNLOAD CV</a>  
             </div>
