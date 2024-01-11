@@ -20,6 +20,12 @@
     }
 }
 
+@media screen and (max-width: 479px){
+  .flexImgPrin{
+    flex-direction: column-reverse;
+  }
+}
+
 .imgAnimacion{
     animation-name: animacionImg;
     animation-duration: 2s;

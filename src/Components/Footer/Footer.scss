@@ -11,8 +11,12 @@
     z-index: 2;
     position: relative;
     background-color: white;
+}
 
-   
+@media screen and (max-width: 479px){
+    .flexFooter{
+        flex-direction: column;
+    }
 }
 
 .flexTituloFppter{
@@ -54,9 +58,7 @@
     left: 55%;
     border-left: 40px solid transparent;
     border-right: 40px solid transparent;
-    
     border-bottom: 30px solid #ffffff;
-    
     z-index: 1;
 }
     
