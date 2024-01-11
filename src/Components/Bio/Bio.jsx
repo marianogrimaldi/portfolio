@@ -1,14 +1,21 @@
 import "./Bio.scss"
 import imgFondo from "../../assets/3.jpg"
+import imgMobile from "../../assets/imgMobile.jpg"
 import salinas from "../../assets/salinas.jpg"
 import { useTranslation } from "react-i18next"
+import Menu from "../Header/Menu"
+
+
 const Bio = () => {
 
     const { t } = useTranslation()
 
     return (
         <div className="animationgral">
+            <Menu/>
             <img src={imgFondo} className="imgFondo" alt="" />
+            <img src={imgMobile} className="imgMobile" alt="" />
+            
             <div className="bio">
               
                 <p >{t("Bio.frase1")}</p>

@@ -6,12 +6,16 @@ import turismo from "../../assets/turismo.jpg"
 import polimodal from "../../assets/polimodal.jpg"
 import mariano from "../../assets/imgPrincipal.jpg"
 import { useTranslation } from "react-i18next"
+import Menu from "../Header/Menu"
+
+
 const Cv = () => {
 
     const { t } = useTranslation()
 
     return (
         <div className="animationgral">
+            <Menu/>
         <div className="bgc" > 
 
             <h1 className="titleCv">MARIANO GRIMALDI </h1>

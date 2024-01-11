@@ -47,13 +47,32 @@
     }
   }
 
+  .imgMobile{
+    display: none;
 
+}
+
+@media screen and (max-width: 479px){
+    .imgMobile{
+        display: block;
+        position: absolute;
+    max-width: 100%;
+    opacity: .3;
+    }
+}
 
 .imgFondo{
     position: absolute;
     max-width: 100%;
     opacity: .3;
 }
+
+@media screen and (max-width: 479px){
+  .imgFondo{
+    display: none;
+  }
+}
+
 
 .flexHome{
     display: flex;
