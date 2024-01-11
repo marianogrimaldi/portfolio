@@ -88,6 +88,12 @@ a{
     background-color: black;
 }
 
+@media screen and (max-width: 479px){
+    .sep{
+        margin-left:.5rem;
+    }
+}
+
 .ultimoDiv{
     padding-bottom: 5rem;
 }
