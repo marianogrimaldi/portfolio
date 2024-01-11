@@ -1,0 +1,71 @@
+{
+  "translation": {
+    "Titulo":{
+      "desarrollador": "WEB DEVELOPER"
+      },
+      "Header":{
+         "inicio": "HOME",
+         "proyectos": "PROJECTS",
+         "contacto": "CONTACT"
+      },
+      "Inicio":{
+        "frase1": "You don't get to the top by surpassing others,", 
+        "frase2": "but by surpassing yourself."
+      },
+      "Bio":{
+        "frase1": "My name is Mariano Grimaldi Bonin. Born in San Jorge, Santa Fe, Argentina. My beginnings as a student were at the Sagrado Corazón de Jesús de San Jorge school, Santa Fe, in the Organization Management modality. As for my tertiary studies, I studied Tourism in San Francisco (Córdoba) and Web Development, with online methodology through the CODER HOUSE platform.",
+        "frase2": "Thanks to my Tourism degree, I gained tools that give me good performance at the group level, organization, planning and optimization of tasks; with the invaluable contribution of the geographical and demographic knowledge that I have incorporated into said training. Web Development allowed me to understand that each person can approach the world in a different way, showing their group and personal abilities, making each site an excellent letter of introduction, greatly surpassing any type of advertising.",
+        "frase3": "From motorcycle trips through South America to expeditions in the highest mountains of the Andes mountain range, these are some of my most valuable experiences, which, when mixed with the latest Web Development techniques, enable me to create an intuitive and quality.",
+        "frase4": "Lover of nature, technology and music, taking into account the modern and the classic, I believe that it is possible to achieve a powerful combination that optimizes any task. The study of two very different careers: Tourism and Web Development, has allowed me to integrate the best of each in order to provide a different service. The passion for mountaineering and my closeness to sport in general, combined with the latest creative techniques linked to the development of web applications, make me perfectly understand the point of view of each of my clients, translating into design and codes, any need of those who hire my service.",
+        "frase5": "Each site demands both dedication and customization, and from my conception, like a piece of music, it must become a work of art. Mariano"
+    },
+    "CV":{
+      "nac": "BIRTH",
+      "arg": "ARGENTINIAN",
+      "dni": "ID",
+      "calle": "Pellegrini Avenue 1434",
+      "ciudad": "Saint George",
+      "celular": "CELL",
+      "experiencia": "WORK EXPERIENCE",
+      "actualidad": "PRESENT",
+      "desarrollo": "WEB DEVELOPMENT",
+      "frase1": "I work in web development in a particular way, adapting sites to all devices. Using a very powerful tool such as React Js.",
+      "administrativo": "ADMINISTRATIVE",
+      "frase2": "I worked in the Impulso Televisora ​​office for 15 years, developing various tools. From customer service to administrative tasks linked to: preparation of administrative boxes, monthly billing, layout of ticket distribution, payment of salaries, payment of services linked to ENACOM, use of basic tools such as WORD, EXCELL and various systems.",
+      "taller": "CARPENTRY SHOP",
+      "frase3": "During the time of the pandemic, Crazy Little was born, a personal project dedicated to making personalized coffee tables. They were made to suit the client, maintaining a unique style. The designs are not painted, but are pyrography to guarantee greater durability over time. It also has a chain magazine rack made by hand.",
+      "amistades": "DANGEROUS FRIENDSHIPS",
+      "frase4": "Dangerous Friendships was a radio program that aired at night, twice a week, after 10 p.m. Together with a friend we played sensitive topics linked to relationships between people and we also performed specials on bands, both national and international. The program was broadcast on frequency 99.1 in the town of San Jorge.",
+      "ventas": "SALES AND COORDINATION",
+      "frase5": "For a year I worked in the sale of national and international trips and in the coordination of trips for students to the town of Carlos Paz, and coordination of trips for retirees to the city of Buenos Aires.",
+      "frase6": "Parallel to studying the Tourism degree, I worked for SETUR selling and coordinating trips for graduates to the town of Bariloche.",
+      "estudios": "STUDIES",
+      "coder": "CODER HOUSE PLATFORM",
+      "turismo": "SUP TECHNICIAN IN TOURISM - NATIONAL GUIDE",
+      "instituto": "F.A.S.T.A. INSTITUTE SAN FRANCISCO - CORDOBA",
+      "economia": "ECONOMICS AND MANAGEMENT OF ORGANIZATIONS",
+      "colegio": "SACRED HEART OF JESUS ​​SCHOOL SAN JORGE SANTA FE",
+      "certificado": "CERTIFICATE",
+      "habilidades": "SKILLS",
+      "avanzado": "ADVANCED",
+      "basico": "ESSENTIAL",
+      "intermedio": "INTERMEDIATE",
+      "idioma": "ENGLISH LANGUAGE",
+      "otras": "OTHER SKILLS",
+      "frase7": "Effective communication. Problem resolution. Delegation of tasks. Coordination. Quick reaction. Autonomy. Self-criticism. Perseverance.",
+      "frase8": "Mountaineering - Music - Wood carpentry."
+        },
+        "TTT":{
+          "sitio": "SITE UNDER CONSTRUCTION"
+      },
+      "Seis":{
+        "frase1":"6000 x 10 is an ambitious project that consists of climbing the 10 highest mountains in Argentina. All of them are found in the provinces of Catamarca, Mendoza, Salta and La Rioja."
+    },
+      "Footer":{
+        "celular": "CELL",
+        "desarrollador": "WEB DEVELOPER"
+      }
+     
+
+  }
+}

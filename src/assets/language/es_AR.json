@@ -1,0 +1,70 @@
+{
+    "translation": {
+        "Titulo":{
+            "desarrollador": "DESARROLLADOR WEB"
+        },
+        "Header":{
+           "inicio": "INICIO",
+           "proyectos": "PROYECTOS",
+           "contacto": "CONTACTO"
+        },
+        "Inicio":{
+            "frase1": "A la cima no se llega superando a los demás,",
+            "frase2": "sino superandote a ti mismo."
+        },
+        "Bio":{
+            "frase1": "Mi nombre es Mariano Grimaldi Bonin. Nacido en San Jorge, Santa Fe, Argentina. Mis inicios como estudiante fueron en el colegio Sagrado Corazón de Jesús de San Jorge, Santa Fe, en la modalidad de Gestión de las Organizaciones. En cuanto a mis estudios terciarios, cursé la carrera de Turismo en San Francisco (Córdoba) y la carrera de Desarrollo Web, con metodología online mediante la plataforma CODER HOUSE.",
+            "frase2": "Gracias a la carrera de Turismo, conseguí herramientas que me brindan un buen desempeño a nivel grupal, organización, planeación y optimización de tareas; con el aporte invaluable de los conocimientos geográficos y demográficos que he incorporado en dicha formación. El Desarrollo Web me permitió interpretar que cada persona puede acercarse al mundo de manera distinta, mostrando sus habilidades tanto grupales como personales, haciendo de cada sitio una excelente carta de presentación, superando en gran medida a cualquier tipo de publicidad.",
+            "frase3": "Desde viajes en motocicletas por América del Sur hasta expediciones en las montañas más altas de la cordillera de los Andes, son algunas de mis experiencias más valiosas, que, al mezclarse con las últimas técnicas de Desarrollo Web, me capacitan para crear un producto intuitivo y de calidad.",
+            "frase4": "Amante de la naturaleza, la tecnología y la música, teniendo en cuenta lo moderno y lo clásico, considero que es posible lograr una poderosa combinación que optimice cualquier tarea. El estudio de dos carreras tan diferentes: Turismo y Desarrollo Web, me han permitido integrar lo mejor de cada una para poder así brindar un servicio diferente. La pasión por el montañismo y mi cercanía con el deporte en general, combinado con las últimas técnicas creativas vinculadas al desarrollo de aplicaciones web, hacen que entienda perfectamente el punto de vista de cada uno de mis clientes, plasmando en diseño y en códigos, cualquier necesidad de quienes contratan mi servicio.",
+            "frase5": "Cada sitio demanda tanto dedicación como personalización, y desde mi concepción, al igual que una pieza musical, debe convertirse en una obra de arte. Mariano"
+        },
+        "CV":{
+            "nac": "NAC",
+            "arg": "ARGENTINO",
+            "dni": "DNI",
+            "calle": "Av. Pellegrini 1434",
+            "ciudad": "San Jorge",
+            "celular": "CELULAR",
+            "experiencia": "EXPERIENCIA LABORAL",
+            "actualidad": "ACTUALIDAD",
+            "desarrollo": "DESARROLLO WEB",
+            "frase1": "Trabajo en desarrollo web de manera particular, adaptando los sitios a todas los dispositivos. Utilizando una herramienta muy poderosa como lo es React Js.",
+            "administrativo": "ADMINISTRATIVO",
+            "frase2": "Trabajé en la oficina de Impulso Televisora durante 15 años, desarrollando varias herramientas. Desde atención al público, hasta tareas administrativas vinculadas a: confeccion de cajas administrativas, facturación nensual, diagramación de reparto de boletas, pago de sueldos, pago de servicios vinculados a ENACOM, utilización de herramientas básicas como WORD, EXCELL y sistemas varios.",
+            "taller": "TALLER DE CARPINTERIA",
+            "frase3": "Durante la época de la pandemia nació Crazy Little, un proyecto personal dedicado a la confeccion de mesas ratonas personalizadas. Las mismas se realizaban a gusto del cliente, manteniendo un estilo unico. Los diseños no se pintan, si no que se pirograban para garantizar mayor perdurabilidad en el tiempo. Además posee un revistero de cadenas confeccionado a mano.",
+            "amistades": "AMISTADES PELIGROSAS",
+            "frase4": "Amistades Peligrosas era un programa de Radio que salia al aire por la noche, dos veces por semana, despues de las 22 hs. Junto a un amigo tocabamos temas sensibles vinculados a las relaciones entre las personas y tambien realizabamos especiales de bandas, tanto nacionales como internacionales. El programa se emitia por frec 99.1 de la localidad de San Jorge.",
+            "ventas": "VENTAS Y COORDINACION",
+            "frase5": "Durante un año trabajé en la venta de viajes nacionales e internaciones y en la cordinacion de viajes para estudiantes a la localidad de Carlos Paz, y cordinacion de viajes para jubilados a la ciudad de Buenos Aires.",
+            "frase6": "Paralelo al estudio de la carrera de Turismo, trabajé para SETUR vendiendo y coordinando viajes de egresados a la localidad de Bariloche.",
+            "estudios": "ESTUDIOS",
+            "coder": "PLATAFORMA CODER HOUSE",
+            "turismo": "TECNICO SUP. EN TURISMO - GUIA NACIONAL",
+            "instituto": "INSTITUTO F.A.S.T.A. SAN FRANCISCO - CORDOBA",
+            "economia": "ECONOMIA Y GESTION DE LAS ORGANIZACIONES",
+            "colegio": "COLEGIO SAGRADO CORAZON DE JESUS SAN JORGE SANTA FE",
+            "certificado": "CERTIFICADO",
+            "habilidades": "HABILIDADES",
+            "avanzado": "AVANZADO",
+            "basico": "BASICO",
+            "intermedio": "INTERMEDIO",
+            "idioma": "IDIOMA: INGLES",
+            "otras": "OTRAS HABILIDADES",
+            "frase7": "Comunicación efectiva. Resolución de problemas. Delegación de tareas. Coordinación. Reacción rápida. Autonomía. Autocrítica. Perseverancia.",
+           
+            "frase8": "Montañismo - Música - Carpinteria en madera."
+        },
+        "TTT":{
+            "sitio": "SITIO EN CONSTRUCCION"
+        },
+        "Seis":{
+            "frase1":"6000 x 10 es un proyecto ambicioso que consiste en escalar las 10 montañas mas altas de Argentina. Todas ellas se encuentan en las provincias de Catamarca, Mendoza, Salta y La Rioja."
+        },
+        "Footer":{
+            "celular": "CELULAR",
+            "desarrollador": "DESARROLLADOR WEB"
+          }
+    }
+}

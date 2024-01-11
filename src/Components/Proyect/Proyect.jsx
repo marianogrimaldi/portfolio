@@ -1,6 +1,5 @@
 import "./Proyect.scss"
-import logo from "../../assets/logoMarian.png"
-import mon from "../../assets/mon.png"
+
 import imgFondo from "../../assets/3.jpg"
 import { NavLink } from "react-router-dom"
 
