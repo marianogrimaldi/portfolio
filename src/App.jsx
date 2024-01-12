@@ -9,12 +9,14 @@ import Proyect from './Components/Proyect/Proyect';
 import TO from './Components/ToTheTop/ToTheTop';
 import SEIS from './Components/6000/6000';
 import Footer from './Components/Footer/Footer'
+import ScrollToTop from './Components/ScrollToTop/ScrollToTop';
 
 function App() {
   
 
   return (
     <BrowserRouter>
+      <ScrollToTop/>
       <Header/>
       <Routes>
       <Route path="/" element={<Home/>}/>
