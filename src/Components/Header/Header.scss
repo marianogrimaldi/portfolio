@@ -82,7 +82,18 @@ li{
     }
 }
 
+@media screen and (max-width: 992px){
 
+    .flexTitle{
+        h1{
+        font-size: 1.8rem;
+    }
+    p{
+        font-size: .8rem;
+    }
+    }
+    
+}
 
 @media screen and (max-width: 479px){
     h1{

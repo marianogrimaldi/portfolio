@@ -3,7 +3,7 @@
     justify-content: center;
     gap: 2rem;
     cursor: pointer;
-    top:4rem;
+  
     position: absolute;
     left: 0;
     right: 0;
@@ -17,11 +17,15 @@
         filter: drop-shadow(1px 1px 1px rgb(255, 255, 255));
         z-index: 3;
         transition: .5s;
+     filter: gray;
+        -webkit-filter: grayscale(100%);
+
     }
 
     .flagSelected{
         scale: 1.2;
-        
+          filter: gray;
+        -webkit-filter: none
     }
     
 }
@@ -29,14 +33,23 @@
 
 @media screen and (max-width: 992px){
     .flags{
-        top:4rem;
+      
+        img{
+            width: 1.2rem;
+            height: .8rem;
+       
+        }
+        .flagSelected{
+            width: 1.5rem;
+            height: 1.1rem;
+          
+        }
     }
 }
 
 @media screen and (max-width: 479px){
     .flags{
-       top:1rem
-
+      
         img{
             width: 1.5rem;
             height: 1rem;
