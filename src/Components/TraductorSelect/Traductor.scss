@@ -3,7 +3,7 @@
     justify-content: center;
     gap: 2rem;
     cursor: pointer;
-  
+   
     position: absolute;
     left: 0;
     right: 0;
@@ -34,6 +34,7 @@
 @media screen and (max-width: 992px){
     .flags{
         margin-top: 5rem ;
+        padding-left: 2rem;
         img{
             width: 1.2rem;
             height: .8rem;
@@ -50,6 +51,7 @@
 @media screen and (max-width: 479px){
     .flags{
       margin-top: -1rem;
+      padding-left: 0;
         img{
             width: 1.5rem;
             height: 1rem;
