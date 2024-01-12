@@ -152,7 +152,7 @@ const Cv = () => {
             <div className="sep"></div>
             <div className="griDatos">
                 <div>
-                    <h3>{t("CV.tecnico")}</h3>
+                    <h3>{t("CV.turismo")}</h3>
                     <p>2007</p>
                 </div>
                 <div>
