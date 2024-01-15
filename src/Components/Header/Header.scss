@@ -2,8 +2,9 @@ li{
     color: rgb(255, 255, 255);
     list-style-type: none;
     font-family: 'Space Grotesk', sans-serif;
-   
+  
     transition: .5s;
+    
    
     
 }
@@ -22,9 +23,8 @@ li{
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    background-image: linear-gradient(90deg, white, white, rgb(2, 2, 83))
+    background-image: linear-gradient(90deg, rgb(0, 0, 0), rgb(0, 0, 0), rgb(2, 2, 83));
     
-   
 }
 
 @media screen and (max-width: 479px){
@@ -58,16 +58,17 @@ li{
     z-index: 2;
     padding: 0;
     h1{
-    
+    color: white;
     font-family: 'Space Grotesk', sans-serif;
     font-size: 2rem;
-    text-shadow: 1px 1px 1px white;
+   
     
 }
     p{
+        color: white;
         font-family: 'Space Grotesk', sans-serif;
         font-size: 1.3rem;
-        text-shadow: .5px .5px .5px white;
+       
     }
 }
 
@@ -109,7 +110,7 @@ li{
     height: 0px;
     border-right: 60px solid transparent;
     z-index: 1;
-    border-top: 100px solid #ffffff;
+    border-top: 100px solid #000000;
     
 }
 

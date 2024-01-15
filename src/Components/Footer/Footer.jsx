@@ -4,7 +4,7 @@ import wpp from "../../assets/wppLogo.png"
 import inst from "../../assets/instLogo.png"
 import face from "../../assets/faceLogo.webp"
 import { useTranslation } from "react-i18next"
-
+import { NavLink } from "react-router-dom"
 const Footer = () => {
 
     const { t } = useTranslation() 
@@ -24,6 +24,14 @@ const Footer = () => {
                 </div>
                 <p>MAIL: marianodanielgrimaldi@gmail.com</p>
                 <p>{t("Footer.celular")}: 54 3406 421065</p>
+                <ul className="navFlexFoot">
+                    
+                    <NavLink to="/"><li>{t("Header.inicio")}</li></NavLink>
+                    <NavLink to="/bio"><li>BIO</li></NavLink>
+                    <NavLink to="/cv"><li>CV</li></NavLink>
+                    <NavLink to="/proyectos"><li>{t("Header.proyectos")}</li></NavLink>
+                   
+                </ul> 
             </div>
             <div className="trapecio-foot"></div>
         </div>
