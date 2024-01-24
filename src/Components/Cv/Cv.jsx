@@ -13,6 +13,17 @@ const Cv = () => {
 
     const { t } = useTranslation()
 
+    const download = ()=>{
+        const lan = localStorage.getItem("lang");
+        debugger;
+        const fileName = "CV"+((lan=="en")?"I":"")+".png";
+        const filePath = "../../"+fileName;
+        let download = document.createElement('a');
+        download.href = filePath;
+        download.download = fileName;
+        download.click();
+    }
+
     return (
         <div className="animationgral">
             <Menu/>
@@ -240,8 +251,7 @@ const Cv = () => {
                 <h3 className="habilidades">{t("CV.frase8")}</h3>    
             </div>
             <div className="btnDescarga">
-               <a download="CV Mariano Grimaldi" className="descarga" href="CV.PNG">DESCARGAR CV</a>  
-               <a download="CV Mariano Grimaldi" className="descarga" href="CVI.PNG">DOWNLOAD CV</a>  
+                <button download="CV Mariano Grimaldi" className="descarga" onClick={download}>{t("CV.download")} CV</button>
             </div>
            
             </div>
