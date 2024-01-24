@@ -12,6 +12,7 @@ const Bio = () => {
 
     return (
         <div className="animationgral">
+           
             <Menu/>
             <img src={imgFondo} className="imgFondo" alt="" />
             <img src={imgMobile} className="imgMobile" alt="" />
